@@ -2,4 +2,11 @@
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="16" />
   </component>
+  <component name="EditorSettings">
+    <option name="IS_WHITESPACES_SHOWN" value="true" />
+    <option name="ADDITIONAL_PAGE_AT_BOTTOM" value="true" />
+  </component>
+  <component name="XmlEditorOptions">
+    <option name="showCssInlineColorPreview" value="true" />
+  </component>
 </application>
