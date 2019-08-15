@@ -1,7 +1,0 @@
-<application>
-  <component name="CodeInsightSettings">
-    <option name="SHOW_INFERRED_ANNOTATIONS_INLINE" value="true" />
-    <option name="HIGHLIGHT_SCOPE" value="true" />
-    <option name="TAB_EXITS_BRACKETS_AND_QUOTES" value="true" />
-  </component>
-</application>
